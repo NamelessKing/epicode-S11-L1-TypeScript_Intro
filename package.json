@@ -1,0 +1,24 @@
+{
+  "name": "epicode-s11-l1-typescript_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamelessKing/epicode-S11-L1-TypeScript_Intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NamelessKing/epicode-S11-L1-TypeScript_Intro/issues"
+  },
+  "homepage": "https://github.com/NamelessKing/epicode-S11-L1-TypeScript_Intro#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
